@@ -4,6 +4,7 @@
 <br />
 <p>simply copy file to directory containing the record folder and run script</p>
 <p>will create a new folder called copies that will have all videos numbered from 1.mp4 up</p>
+<p>can be ran via:<br />python scrapper.py</p>
 <br />
 <p>Added feature that allows you to add a custom folder name to cli when calling script</p>
 <p>Example:<br />python scrapper.py sumFolder</p>
