@@ -4,6 +4,7 @@ from shutil import copyfile
 
 
 """
+
     # a simple script that takes a series of files from a collection of organized folders and collects them all into one folder and numbers each of the files from  1.mp4 up to sumNum.mp4
 
     designed for wyze cam quick extraction of video files
