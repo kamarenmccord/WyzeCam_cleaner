@@ -1,6 +1,6 @@
 <br />
 <h1>Wyzecam file sorter</h1>
-<p>Script for quickly copying wyzecam file sorting</p>
+<h3>Script for quickly copying wyzecam files and sorting them to one folder</h3>
 <br />
 <p>simply copy file to directory containing the record folder and run script</p>
 <p>will create a new folder called copies that will have all videos numbered from 1.mp4 up</p>
